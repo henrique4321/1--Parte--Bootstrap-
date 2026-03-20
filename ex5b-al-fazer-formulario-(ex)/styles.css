@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to bottom, #0a1f44, #1e3a8a);
+    height: 100vh;
+    margin: 0;
+}
+
+.custom-form {
+    background: linear-gradient(145deg, #7AAACE, #9CD5FF);
+    padding: 2rem;
+    border-radius: 15px;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    min-height: 300px; /* força aparecer */
+}
+
+.form-label {
+    color: #ffffff;
+}
+
+.custom-icon {
+    background-color: #F7F8F0;
+    border: 1px solid #000000;
+}
+
+.btn.btn-primary {
+    background: linear-gradient(45deg, #3498db, #2980b9);
+    padding: 0.8rem 2rem;
+    border-radius: 50px;
+    border: none;
+}
+
